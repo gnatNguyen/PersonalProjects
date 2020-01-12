@@ -1,0 +1,2 @@
+Simple hangman game with character and words displayed to console.
+words.txt file contains all words that can be used.
