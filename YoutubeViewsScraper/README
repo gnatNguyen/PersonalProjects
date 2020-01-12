@@ -1,0 +1,9 @@
+This is my newest project
+The goal of this is to scrap data from a specified Youtube channel, save it, clean it, and graph it.
+
+-Views Scraper should be run first
+-Grapher program can be run next
+
+*note* still needs documentation.
+
+Standalone exe using pyinstaller works(possible real use application?)
