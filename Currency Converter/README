@@ -1,0 +1,6 @@
+This program is a GUI that let's the user choose from a few currency options
+After the user inputs an amount in the field, the program returns the equivalent in chosen currency
+
+*note* used PYQT5 to set up GUI layout and appearance
+*note* exe too large to upload
+*note* still needs documentation
