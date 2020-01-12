@@ -1,0 +1,4 @@
+A script that creates a script which then opens a Python idle and prints "hello world".
+Made this for fun after learning Pynput
+
+*note* still needs documentation
