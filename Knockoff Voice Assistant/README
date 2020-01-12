@@ -1,0 +1,3 @@
+Uses Google voice recognition API to accept microphone input
+Takes in speech to text data, cleans it up and allows to be utilized
+Currently can: type into a text field, open applications, close applications, save applications, shutdown, and a few others
